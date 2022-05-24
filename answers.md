@@ -46,7 +46,7 @@ Most of the behavioral questions should be answered in the CAR format. At least 
   - **Action:**
   - **Result:**
 - [ ] Give an example of an important project goal you reached and how you achieved it.
-  - **Cause:**
+  - **Cause:**Redesigning the company's website
   - **Action:**
   - **Result:**
 - [ ] Describe a situation in which you experienced difficulty in getting others to accept your ideas? What was your approach? How did this work? Were you able to successfully persuade someone to see things your way
