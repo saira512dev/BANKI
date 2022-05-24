@@ -23,7 +23,7 @@ Most of the behavioral questions should be answered in the CAR format. At least 
 
 - [ ] Give me an example of a project or initiative that you started on your own. What prompted you to get started?
   - **Cause:** The website at my current company was outdated and not getting a lot of traffic.
-  - **Action:**
+  - **Action:**I learned HTML and CSS and started rebuilding it.
   - **Result:**
 - [ ] Tell me about a time you had to work on several projects at once. How did you handle this?
   - **Cause:**
