@@ -29,10 +29,10 @@ Most of the behavioral questions should be answered in the CAR format. At least 
   - **Cause:**Being the solo marketer at my company, I always had to work on several project at once.
   - **Action:**I was very good at time management, putting every single task on Clickup and had an open communication with my manager about goals, plans, expectations, outsourcing...
   - **Result:**I was able to run several marketing campaigns at the same time while doing other marketing related activities (assist sales team by creating documentation, redesigning the website...)
-- [ ] Describe a situation in which you felt you had not communicated well enough. What did you do? How did you handle it?
+- [x] Describe a situation in which you felt you had not communicated well enough. What did you do? How did you handle it?
   - **Cause:**Once I had to send an email to all our clients about a planned outage but it did not reach all recipients.
   - **Action:**I followed up with all the primary contacts of our clients to make sure they got the email.
-  - **Result:**
+  - **Result:**I was able confirm that everyone knew about the outage and clients were very appreciative for that.
 - [ ] Tell me about when you had to deal with conflict within your team. How was the conflict solved? How did you handle that? How would you deal with it now?
   - **Cause:**
   - **Action:**
