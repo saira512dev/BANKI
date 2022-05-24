@@ -31,7 +31,7 @@ Most of the behavioral questions should be answered in the CAR format. At least 
   - **Result:**I was able to run several marketing campaigns at the same time while doing other marketing related activities (assist sales team by creating documentation, redesigning the website...)
 - [ ] Describe a situation in which you felt you had not communicated well enough. What did you do? How did you handle it?
   - **Cause:**Once I had to send an email to all our clients about a planned outage but it did not reach all recipients.
-  - **Action:**
+  - **Action:**I followed up with all the primary contacts of our clients to make sure they got the email.
   - **Result:**
 - [ ] Tell me about when you had to deal with conflict within your team. How was the conflict solved? How did you handle that? How would you deal with it now?
   - **Cause:**
