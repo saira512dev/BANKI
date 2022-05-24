@@ -27,7 +27,7 @@ Most of the behavioral questions should be answered in the CAR format. At least 
   - **Result:**The website's traffic increased 200% and we got more than 15 new clients from it.
 - [ ] Tell me about a time you had to work on several projects at once. How did you handle this?
   - **Cause:**Being the solo marketer at my company, I always had to work on several project at once.
-  - **Action:**
+  - **Action:**I was very good at time management, putting every single task on Clickup and had an open communication with my manager about goals, plans, expectations, outsourcing...
   - **Result:**
 - [ ] Describe a situation in which you felt you had not communicated well enough. What did you do? How did you handle it?
   - **Cause:**
