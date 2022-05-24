@@ -25,12 +25,12 @@ Most of the behavioral questions should be answered in the CAR format. At least 
   - **Cause:** The website at my current company was outdated and not getting a lot of traffic.
   - **Action:**I learned HTML and CSS and started rebuilding it.
   - **Result:**The website's traffic increased 200% and we got more than 15 new clients from it.
-- [ ] Tell me about a time you had to work on several projects at once. How did you handle this?
+- [x] Tell me about a time you had to work on several projects at once. How did you handle this?
   - **Cause:**Being the solo marketer at my company, I always had to work on several project at once.
   - **Action:**I was very good at time management, putting every single task on Clickup and had an open communication with my manager about goals, plans, expectations, outsourcing...
   - **Result:**I was able to run several marketing campaigns at the same time while doing other marketing related activities (assist sales team by creating documentation, redesigning the website...)
 - [ ] Describe a situation in which you felt you had not communicated well enough. What did you do? How did you handle it?
-  - **Cause:**
+  - **Cause:**Once I had to send an email to all our clients about a planned outage but it did not reach all recipients.
   - **Action:**
   - **Result:**
 - [ ] Tell me about when you had to deal with conflict within your team. How was the conflict solved? How did you handle that? How would you deal with it now?
