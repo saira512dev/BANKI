@@ -121,7 +121,7 @@ Most of the technical questions should have a three sentence response in the EUE
 ### HTML
 
 - [ ] What does a doctype do?
-  - **Explanation:**
+  - **Explanation:** Doctype tells the browser how the document should be interpreted, by indicating what version or standard of HTML is being used. 
   - **Use:**
   - **Example:**
   - **Source:**
