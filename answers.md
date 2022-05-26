@@ -55,7 +55,7 @@ Most of the behavioral questions should be answered in the CAR format. At least 
   - **Result:**
 - [ ] Tell me about a situation when you were responsible for project planning. Did everything go according to your plan? If not, then why and what kind of counteractions did you have to take?
   - **Cause:**I planned the redesign of the company's website
-  - **Action:**
+  - **Action:** 
   - **Result:**
 - [ ] Tell me about a situation when you made a mistake at work. What happened exactly and how did you deal with it? What steps did you take to improve the situation?
   - **Cause:**
