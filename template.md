@@ -22,9 +22,9 @@ Most of the behavioral questions should be answered in the CAR format. At least 
 ### Questions
 
 - [ ] Give me an example of a project or initiative that you started on your own. What prompted you to get started?
-  - **Cause:**: I felt there was a need for a dedicated space for sharing coffee chat experiences and it wasn't there. I was looking forward to doing a full stack project using MERN stack
-  - **Action:**: I went ahead and made an app for the same purpose
-  - **Result:**: Now if someone wants to find a dedicated space for coffee chat experiences they can use the app!
+  - **Cause:**: //I felt there was a need for a dedicated space for sharing coffee chat experiences and it wasn't there. I was looking forward to doing a full stack project using MERN stack//
+  - **Action:**: //I went ahead and made an app for the same purpose//
+  - **Result:**: //Now if someone wants to find a dedicated space for coffee chat experiences they can use the app!//
 - [ ] Tell me about a time you had to work on several projects at once. How did you handle this?
   - **Cause:**: While at my teaching job, I had to handle theory and practical sessions of both core and elective students while helping my head in marks calculation according to the grade system
   - **Action:** :I made separate plans for elective and core students and asked doubts to my colleagues who previously handled these responsiblities
