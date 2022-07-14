@@ -22,15 +22,15 @@ Most of the behavioral questions should be answered in the CAR format. At least 
 ### Questions
 
 - [ ] Give me an example of a project or initiative that you started on your own. What prompted you to get started?
-  - **Cause:**
+  - **Cause:**: 
   - **Action:**
   - **Result:**
 - [ ] Tell me about a time you had to work on several projects at once. How did you handle this?
-  - **Cause:**
-  - **Action:**
-  - **Result:**
+  - **Cause:**: While at my teaching job, I had to handle theory and practical sessions of both core and elective students while helping my head in marks calculation according to the grade system
+  - **Action:** :I made separate plans for elective and core students and asked doubts to my colleagues who previously handled these responsiblities
+  - **Result:**: I could finish my tasks within the given time
 - [ ] Describe a situation in which you felt you had not communicated well enough. What did you do? How did you handle it?
-  - **Cause:**
+  - **Cause:**: 
   - **Action:**
   - **Result:**
 - [ ] Tell me about when you had to deal with conflict within your team. How was the conflict solved? How did you handle that? How would you deal with it now?
